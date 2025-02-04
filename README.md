@@ -1,6 +1,6 @@
 <b>pam.conf</b>
 
-Solaris scripts to modify various pam.conf files to support LDAP authentication.
+Solaris Bourne shell scripts to modify various pam.conf files to support LDAP authentication. Uses standard Solaris versions of sed/awk and does not require GNU tools.
 
 Please note that these scripts were tested with Solaris release 5/09.
 
